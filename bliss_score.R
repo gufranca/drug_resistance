@@ -1,6 +1,6 @@
 
 
-setwd("C:/Users/starvg01/Desktop/figures_paper/figure1")
+setwd("path/")
 
 load("modules_kuramochi.rda")
 
